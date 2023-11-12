@@ -1,2 +1,3 @@
-# simplepassword
-Simple looping password in Python (.py)
+# simplepassword.py
+Free simple looping password in Python that stop if password correct.
+by ME
